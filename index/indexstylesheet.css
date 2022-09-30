@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
 body {
     font-family: sans-serif;
     color: blue;
@@ -5,4 +7,13 @@ body {
 
 #ugmaniaHeading {
     text-align: center;
+    font-family: Electrolize;
+    color:darkgrey;
+    font-size: 50px;
+}
+
+.headingBox {
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px;
 }
